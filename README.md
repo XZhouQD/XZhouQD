@@ -1,16 +1,14 @@
-### Hi there 👋
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XZhouQD&count_private=true&show_icons=true&bg_color=22,66ccff,99ffff" />
+</a>
+### Welcome here 👋
 
-<!--
-**XZhouQD/XZhouQD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: React.JS
+- 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Skills**<br />
+![](https://img.shields.io/badge/-Python3-blue?style=for-the-badge)
+![](https://img.shields.io/badge/-Java-orange?style=for-the-badge)
+![](https://img.shields.io/badge/-MySQL-yellowgreen?style=for-the-badge)
+![](https://img.shields.io/badge/-Mediawiki-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/-Shell-brightgreen?style=for-the-badge)
