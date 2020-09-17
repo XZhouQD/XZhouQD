@@ -6,13 +6,13 @@
 
 - 🔭 I recently work on: Nonebot Plugins
 - 🌱 I’m currently learning: React.JS
-- 💬 Ask me about: [cqhttp-mirai](https://github.com/XZhouQD/cqhttp-mirai) for Mirai-Console 1.0-M4
+- 💬 Ask me about: [cqhttp-mirai](https://github.com/XZhouQD/cqhttp-mirai) for 1.0-M4
+- ⚡ Fun fact: know no kotlin, editing [cqhttp-mirai](https://github.com/XZhouQD/cqhttp-mirai)
 - 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
-- ⚡ Fun fact: know no kotlin, editing kotlin projects
 
 <img align="right" alt="XZhouQD Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XZhouQD&show_icons=true&hide_border=true&theme=radical&bg_color=22,66ccff,99ffff" />
 
-**My Skills**<br />
+**My Skills**<br /><br />
 ![](https://img.shields.io/badge/-Python3-blue?style=for-the-badge) Cannot refuse to use. Is someone calling for me?
 
 ![](https://img.shields.io/badge/-Java-orange?style=for-the-badge) Love it and trained for it.
