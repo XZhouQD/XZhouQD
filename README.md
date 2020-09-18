@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XZhouQD&count_private=true&show_icons=true&bg_color=22,66ccff,99ffff" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XZhouQD&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 ### Welcome here 👋
@@ -10,7 +10,7 @@
 - ⚡ Fun fact: know no kotlin, editing [cqhttp-mirai](https://github.com/XZhouQD/cqhttp-mirai)
 - 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
 
-<img align="right" alt="XZhouQD Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XZhouQD&show_icons=true&hide_border=true&theme=radical&bg_color=22,66ccff,99ffff" />
+<img align="right" alt="XZhouQD Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XZhouQD&show_icons=true&hide_border=true&theme=radical" />
 
 **My Skills**<br /><br />
 ![](https://img.shields.io/badge/-Python3-blue?style=for-the-badge) Cannot refuse to use. Is someone calling for me?
