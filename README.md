@@ -5,9 +5,9 @@
 ### Welcome here 👋
 
 - 🔭 I recently work on: Nonebot Plugins
-- 🌱 I’m currently learning: React.JS
-- 💬 Ask me about: [cqhttp-mirai](https://github.com/XZhouQD/cqhttp-mirai) for 1.0-M4
-- ⚡ Fun fact: know no kotlin, editing [cqhttp-mirai](https://github.com/XZhouQD/cqhttp-mirai)
+- 🌱 I’m currently learning: Fuzz
+- 💬 Ask me about: Working in Huawei?
+- ⚡ Fun fact: Sorry, this is paid section.
 - 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
 
 <img align="right" alt="XZhouQD Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XZhouQD&show_icons=true&hide_border=true&theme=radical" />
