@@ -4,8 +4,8 @@
 
 ### Welcome here 👋
 
-- 🔭 I recently work on: Nonebot Plugins
-- 🌱 I’m currently learning: Fuzz
+- 🔭 I recently work on: (Clover Theatre Wiki)[https://wiki.biligame.com/clover]
+- 🌱 I’m currently learning: Spring Framework
 - 💬 Ask me about: Working in Huawei?
 - ⚡ Fun fact: Sorry, this is paid section.
 - 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
