@@ -5,7 +5,7 @@
 ### Welcome here 👋
 
 - 🔭 I recently work on: [CloverTheatre Wiki](https://wiki.biligame.com/clover)
-- 🌱 I’m currently learning: Spring Framework
+- 🌱 I’m currently learning: Mediawiki API
 - 💬 Ask me about: Working in Huawei?
 - ⚡ Fun fact: Sorry, this is paid section.
 - 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
