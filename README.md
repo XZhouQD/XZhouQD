@@ -5,8 +5,8 @@
 ### Welcome here 👋
 
 - 🔭 I recently work on: [CloverTheatre Wiki](https://wiki.biligame.com/clover)
-- 🌱 I’m currently learning: Mediawiki API
-- 💬 Ask me about: Working in Huawei?
+- 🌱 I’m currently learning: Sharepoint Migration
+- 💬 Ask me about: Working in Microsoft?
 - ⚡ Fun fact: Sorry, this is paid section.
 - 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
 
