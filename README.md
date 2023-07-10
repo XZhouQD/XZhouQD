@@ -4,9 +4,9 @@
 
 ### Welcome here 👋
 
-- 🔭 I recently work on: [CloverTheatre Wiki](https://wiki.biligame.com/clover)
-- 🌱 I’m currently learning: Sharepoint Migration
-- 💬 Ask me about: Working in Microsoft?
+- 🔭 I recently work on: [Migration Manager](https://learn.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)
+- 🌱 I’m currently learning: Boxnotes Converting
+- 💬 Ask me about: Working in Microsoft
 - ⚡ Fun fact: Sorry, this is paid section.
 - 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
 
